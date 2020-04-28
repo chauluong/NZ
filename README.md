@@ -1,2 +1,1 @@
-# NZ
-NZ Trip
+Self-Improvement Repository
